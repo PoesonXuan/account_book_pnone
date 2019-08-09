@@ -1,0 +1,6 @@
+<!--pages/index1/index1.wxml-->
+
+<view>
+  <h1>I love you</h1>
+  <button type='primary' bindtap='send'>请求数据</button>
+</view>
